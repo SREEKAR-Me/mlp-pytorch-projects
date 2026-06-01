@@ -9,6 +9,7 @@ across three real-world datasets.
 ## Projects
 
 | Project | Type | Key Challenge | Result |
+|---|---|---|---|
 | California Housing | Regression | Feature scaling, overfitting | RMSE: 0.56, R²: 0.76 |
 | Credit Card Fraud | Binary Classification | Severe class imbalance (0.17% fraud) | AUROC: 0.946 |
 
